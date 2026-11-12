@@ -1,0 +1,13 @@
+name = "Simple Datapacks"
+filename = "simple-datapacks-2.9.1-neoforge+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Re6xQ62Z/versions/llXWb3Oq/simple-datapacks-2.9.1-neoforge%2B1.21.jar"
+hash-format = "sha512"
+hash = "18f77a98f1eedf002bd926ddfe8918f59f0c96faffdd267f08350a9b48c6a5f837cd30e40fe0124b4033f03b90e859a1216ce13ba3dcaad95c5c13c2b79afa2f"
+
+[update]
+[update.modrinth]
+mod-id = "Re6xQ62Z"
+version = "llXWb3Oq"

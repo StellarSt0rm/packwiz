@@ -1,0 +1,13 @@
+name = "Flatter Lowlands"
+filename = "Flatter Lowlands 1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SpUMFR8X/versions/swrXKAD4/Flatter%20Lowlands%201.1.zip"
+hash-format = "sha512"
+hash = "4731b1c899c4671365a48b09914e51ebb38f197c0a9dfcb1e46f8c02d63c331fa52779d1074d1741cb52b2437a19503a6d3498ce0874f0148623da990a48c88b"
+
+[update]
+[update.modrinth]
+mod-id = "SpUMFR8X"
+version = "swrXKAD4"

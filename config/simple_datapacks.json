@@ -1,0 +1,11 @@
+{
+  "copyDatapacks": false,
+  "shouldApplyRequiredPacksToExistingWorld": true,
+  "enableFeatures": false,
+  "globalFeatures": false,
+  "sendRestartWarning": false,
+  "requiredDatapacksPaths": [
+    "datapacks"
+  ],
+  "optionalDatapacksPaths": []
+}
