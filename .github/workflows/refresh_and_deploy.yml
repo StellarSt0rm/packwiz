@@ -12,7 +12,7 @@ on:
 
     # Other files and folders
     - "!README.md"
-    - "shell.nix" # If we update packwiz
+    - "build-shell.nix" # If we update the build shell
     - ".github/workflows/refresh_and_deploy.yml" # If we update this workflow
     - "!SAFEGUARDED/**" # Folder to dump things we want to keep around and then move idk
 
