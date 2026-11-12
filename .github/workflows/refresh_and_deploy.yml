@@ -6,6 +6,8 @@ on:
   push:
     branches: [main]
     paths:
+    - "**" # Everything is considered
+    
     - "!.*" # Ignore dotfiles
     - "!.*/**" # Ignore dotfolders
     - ".packwizignore" # Except packwiz's ignore file
