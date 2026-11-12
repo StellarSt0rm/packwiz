@@ -1,0 +1,14 @@
+README.md
+TODO.txt
+mods/.custom_modpack_recipes_source/**
+eternal_winter.pxo
+_toadd
+
+# Git
+.git/**
+.gitattributes
+
+# Nix
+.direnv
+shell.nix
+.envrc

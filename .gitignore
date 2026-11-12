@@ -1,0 +1,6 @@
+# Ignore exported packs
+*.zip
+*.mrpack
+
+# Nix
+.direnv
