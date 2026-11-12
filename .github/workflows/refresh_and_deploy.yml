@@ -51,7 +51,7 @@ jobs:
         run: |
           nix-shell --run '
             packwiz refresh
-          ' shell.nix
+          ' build-shell.nix
       
       # Upload
       - name: Upload artifact
