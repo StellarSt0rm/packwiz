@@ -2,6 +2,9 @@ name: Refresh and Deply to GitHub Pages
 
 # Babble
 on:
+  workflow_dispatch:
+    inputs:
+      update:
   push:
     branches: [main]
     paths:
@@ -11,7 +14,7 @@ on:
 
     # Other files and folders
     - "!README.md"
-    - "!shell.nix" # Hewwo i use nixos
+    - "shell.nix" # If we update packwiz
     - "!SAFEGUARDED/**" # Folder to dump things we want to keep around and then move idk
 
 permissions:
@@ -35,14 +38,21 @@ jobs:
       # Setup
       - name: Checkout repo
         uses: actions/checkout@v4
+      
       - name: Setup GitHub Pages
         uses: actions/configure-pages@v5
 
-      # Refresh packwiz index
-      - name: Refresh packwiz index
-        uses: hudsonm62/packwiz-action@v1
+      - name: Install Nix
+        uses: cachix/install-nix-action@v27
         with:
-          args: refresh
+          nix_path: nixpkgs=channel:nixos-unstable
+
+      # Manage packwiz
+      - name: Refresh packwiz index
+        run: |
+          nix-shell --run '
+            packwiz refresh
+          ' shell.nix
       
       # Upload
       - name: Upload artifact
