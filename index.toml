@@ -67,7 +67,7 @@ hash = "9927139ecaeb6e80def4fc28913672db57902d528059ed8d8af81f8d46e535e3"
 metafile = true
 
 [[files]]
-file = "mods/loconautics-0.1.1BETA.jar"
+file = "mods/loconautics-0.1.1BETA.jar.disabled"
 hash = "c4a9a8b4b3bd8cec201efa5082f314ee4be72665a871f1046566ef0ebfa09a0d"
 
 [[files]]
@@ -79,6 +79,10 @@ metafile = true
 file = "mods/simple-datapacks.pw.toml"
 hash = "019d31690356cd97f7b89cdefd93733b3b88c6ed6da3af8996bb8be7065b5c44"
 metafile = true
+
+[[files]]
+file = "mods/simulatedhoses-0.1.6-alpha.jar"
+hash = "e5db0bd6e4287813e8c9a3f0f69714feec2459fa80437bdc2e9e83c4d5bced1e"
 
 [[files]]
 file = "mods/simurail-0.1.1+mc1.21.1+ad7176f.jar"
