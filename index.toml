@@ -9,6 +9,10 @@ file = "config/livingwind-common.toml"
 hash = "0409bf84cc412c4d7e3b916e07541c8d49e92e79366029bf6e686797687fe47d"
 
 [[files]]
+file = "config/nepheriagloud-common.toml"
+hash = "799d54a96d0e80017d8c9b09ecf09052f7c9eb22815f593466853dbae95550c6"
+
+[[files]]
 file = "config/simple_datapacks.json"
 hash = "a8331f7cb70ecd083f27dc53ed42cbb88027031e361820684aee492963312558"
 
