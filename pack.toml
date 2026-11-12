@@ -1,0 +1,13 @@
+name = "Simurail Shenanigans"
+author = "Darivex & StellarSt0rm"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1a57f104e7d707b5e9ceb8d986c064eb8b53da82f4573d5c03a7b66698c8877"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.265"
