@@ -18,6 +18,10 @@ hash = "0cb158de2983f549d079489132ce4c7a01ad8153b7746b5e673f3636bb8bfa63"
 metafile = true
 
 [[files]]
+file = "mods/aeronautics_levitite_n_pressure-1.0.0.jar"
+hash = "a65e4405a5aacf101c4dd6bc132bc728aab99eedaf92fce938b76b1d059df427"
+
+[[files]]
 file = "mods/cableworks-1.4.1a.jar"
 hash = "59d09dcac0ffc47cfdf24c02fc038d29d7df52094f5f1f93fe1d90168c793447"
 
@@ -41,8 +45,18 @@ hash = "a516cae54142a38262b5b0163a30e119df844ee4bd11ad1cbea5accbc0334540"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-nepheria-gloud.pw.toml"
+hash = "e6b88d893623f54bbcd84c4e4196e1045d0966cc852edc1257092654e2758941"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
+metafile = true
+
+[[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
@@ -58,6 +72,31 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
+metafile = true
+
+[[files]]
+file = "mods/dashpanels-expanded.pw.toml"
+hash = "005ba7cec099ba5fdba6f3b325455145e6dce67d9666b69e1ce302d80765c18f"
+metafile = true
+
+[[files]]
+file = "mods/dashpanels-extra.pw.toml"
+hash = "e388d9832552911550c0f80dc0ee431faf6a2e68d4262359c2101c72e249f09d"
+metafile = true
+
+[[files]]
+file = "mods/dashpanels.pw.toml"
+hash = "ddf0cd016b63954828035c8d0d104e01a90ea8cec9e7d4c45cfbdf4fcc222b69"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-sable.pw.toml"
+hash = "97396ce6497542310eeaba1171c606ce461bfc0b8b6bf0c22bd44a45bfed1c5c"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
 
 [[files]]
@@ -83,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/offroadstepup-0.5.jar"
 hash = "19275123fd4904230b48d1f3993d7e275966c81b57a868c1bd908f8ac656f5da"
+
+[[files]]
+file = "mods/rpl.pw.toml"
+hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"

@@ -1,0 +1,13 @@
+name = "Create/Aeronautics:Nepheria Gloud"
+filename = "nepheriagloud-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86271b9e1a7d1b2574e8b22c001017a33bad746d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9556777
+project-id = 1791241
