@@ -4,7 +4,7 @@ name: Refresh and Deply to GitHub Pages
 on:
   workflow_dispatch:
   push:
-    branches: [main]
+    branches: []
     paths:
     - "**" # Everything is considered
     
