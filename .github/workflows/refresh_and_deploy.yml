@@ -4,19 +4,20 @@ name: Refresh and Deply to GitHub Pages
 on:
   workflow_dispatch:
   push:
-    branches: []
+    branches-ignore:
+      - "**" # Disable :3
     paths:
-    - "**" # Everything is considered
-    
-    - "!.*" # Ignore dotfiles
-    - "!.*/**" # Ignore dotfolders
-    - ".packwizignore" # Except packwiz's ignore file
-
-    # Other files and folders
-    - "!README.md"
-    - "build-shell.nix" # If we update the build shell
-    - ".github/workflows/refresh_and_deploy.yml" # If we update this workflow
-    - "!SAFEGUARDED/**" # Folder to dump things we want to keep around and then move idk
+      - "**" # Everything is considered
+      
+      - "!.*" # Ignore dotfiles
+      - "!.*/**" # Ignore dotfolders
+      - ".packwizignore" # Except packwiz's ignore file
+  
+      # Other files and folders
+      - "!README.md"
+      - "build-shell.nix" # If we update the build shell
+      - ".github/workflows/refresh_and_deploy.yml" # If we update this workflow
+      - "!SAFEGUARDED/**" # Folder to dump things we want to keep around and then move idk
 
 permissions:
   contents: read
