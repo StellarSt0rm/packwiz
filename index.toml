@@ -1,9 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = ".github/workflows/refresh_and_deploy.yml"
-hash = "1944116999c528356a29765c3382d6463a549aab5f5084059e44aec2dfe2de0f"
-
-[[files]]
-file = "build-shell.nix"
-hash = "3b48b6f2b8fc9851529f4495a32947986f882ffc9b361624dc3d35194b78da72"
+files = []
