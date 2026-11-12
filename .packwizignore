@@ -1,14 +1,14 @@
 README.md
-TODO.txt
-mods/.custom_modpack_recipes_source/**
-eternal_winter.pxo
-_toadd
+SAFEGUARDED/**
 
-# Git
+# Git & GitHub
 .git/**
+.github/**
 .gitattributes
+.gitignore
 
 # Nix
-.direnv
 shell.nix
+build-shell.nix
+.direnv
 .envrc
