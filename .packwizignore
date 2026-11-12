@@ -1,6 +1,5 @@
 README.md
 SAFEGUARDED/**
-index.html
 
 # Git & GitHub
 .git/**
@@ -10,6 +9,5 @@ index.html
 
 # Nix
 shell.nix
-build-shell.nix
 .direnv
 .envrc
