@@ -40,6 +40,11 @@ hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
 file = "mods/cableworks-1.4.1a.jar"
 hash = "59d09dcac0ffc47cfdf24c02fc038d29d7df52094f5f1f93fe1d90168c793447"
 
@@ -88,6 +93,11 @@ hash = "349b56aa9ea8284fb89e880941d319ce52e50e51d63084472ea93493cff105b7"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-gyroscope-stabilizers.pw.toml"
+hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-nepheria-gloud.pw.toml"
 hash = "e6b88d893623f54bbcd84c4e4196e1045d0966cc852edc1257092654e2758941"
 metafile = true
@@ -115,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
 metafile = true
 
 [[files]]
@@ -160,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/extra-copycats.pw.toml"
 hash = "972cf82be646ff7dbf7c47d63a09e212d28d5113eff78d85ee831ec4c0c9a8c7"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
