@@ -30,6 +30,11 @@ file = "mods/aeronautics_levitite_n_pressure-1.0.0.jar"
 hash = "a65e4405a5aacf101c4dd6bc132bc728aab99eedaf92fce938b76b1d059df427"
 
 [[files]]
+file = "mods/blocks-bogies.pw.toml"
+hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
+metafile = true
+
+[[files]]
 file = "mods/cableworks-1.4.1a.jar"
 hash = "59d09dcac0ffc47cfdf24c02fc038d29d7df52094f5f1f93fe1d90168c793447"
 
