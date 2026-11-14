@@ -68,6 +68,11 @@ hash = "a516cae54142a38262b5b0163a30e119df844ee4bd11ad1cbea5accbc0334540"
 metafile = true
 
 [[files]]
+file = "mods/contraption-lights.pw.toml"
+hash = "43776164891cfe7206bbb2a2d67afd80c22127b649c05e9642a4ad56a097b8fc"
+metafile = true
+
+[[files]]
 file = "mods/copycats-plus-aeronautics-weight.pw.toml"
 hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
@@ -165,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
