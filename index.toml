@@ -30,6 +30,11 @@ file = "mods/aeronautics_levitite_n_pressure-1.0.0.jar"
 hash = "a65e4405a5aacf101c4dd6bc132bc728aab99eedaf92fce938b76b1d059df427"
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
@@ -41,6 +46,11 @@ hash = "59d09dcac0ffc47cfdf24c02fc038d29d7df52094f5f1f93fe1d90168c793447"
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "594cf4ca23d3eca84b27092e170737cd6a51a99a3a83c864f68512b02e487efb"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
 metafile = true
 
 [[files]]
@@ -184,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/offroadstepup-0.5.jar"
 hash = "19275123fd4904230b48d1f3993d7e275966c81b57a868c1bd908f8ac656f5da"
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
 
 [[files]]
 file = "mods/rpl.pw.toml"
