@@ -213,8 +213,8 @@ hash = "9927139ecaeb6e80def4fc28913672db57902d528059ed8d8af81f8d46e535e3"
 metafile = true
 
 [[files]]
-file = "mods/loconautics-0.1.2BETA.jar"
-hash = "789a0b652e0d32c6399c6dc1ef914d954820315f8a8fb795af87bb700e4d2fe7"
+file = "mods/loconautics-0.1.3BETA.jar"
+hash = "2cd0b33189b2ebdb3551b59aa8fb5cfef6b4b89d238b99b0185cf45bec05e5de"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
