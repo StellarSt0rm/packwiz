@@ -138,6 +138,11 @@ hash = "d9da6eb607351b0667e98eca68ff3fe3e5106cded14cb9c089147528d2fc35bb"
 metafile = true
 
 [[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
+metafile = true
+
+[[files]]
 file = "mods/create-rolling-tones.pw.toml"
 hash = "ddef0dcf8688392f2466df8c2def631e31728ad178009431264958195c91aa14"
 metafile = true
@@ -170,6 +175,16 @@ metafile = true
 [[files]]
 file = "mods/drive-by-sable.pw.toml"
 hash = "97396ce6497542310eeaba1171c606ce461bfc0b8b6bf0c22bd44a45bfed1c5c"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "5d2c7666928f62d709f6890e20dd77de984837476ba181ef7f3c5e8acbe0a8d1"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "2c88d3eceb7be9c5964ca32c24612ca08d7326b4cb06104e98d56efa777de640"
 metafile = true
 
 [[files]]
