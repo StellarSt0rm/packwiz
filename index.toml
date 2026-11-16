@@ -25,6 +25,10 @@ file = "config/simple_datapacks.json"
 hash = "a8331f7cb70ecd083f27dc53ed42cbb88027031e361820684aee492963312558"
 
 [[files]]
+file = "config/treephysics-common.toml"
+hash = "bd182f302cdfff714f96827b21c667f418975301bdaf97dbc4108fc8b66bec31"
+
+[[files]]
 file = "datapacks/flatter-lowlands.pw.toml"
 hash = "0cb158de2983f549d079489132ce4c7a01ad8153b7746b5e673f3636bb8bfa63"
 metafile = true
@@ -289,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
 hash = "91c70c2916e2d98f182519e0c51de5c1004db09b27c106d0f52908393a44ed28"
+metafile = true
+
+[[files]]
+file = "mods/tree-physics.pw.toml"
+hash = "0c084b716102bb33d1b14ebd707a732cd807ddebc135989ee12664b58e3ad7f8"
 metafile = true
 
 [[files]]
