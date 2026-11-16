@@ -1,6 +1,14 @@
 README.md
 SAFEGUARDED/**
 
+# Ignore exported packs
+*.zip
+*.mrpack
+
+# Do not ignore datapacks or resourcepacks
+!datapacks/*.zip
+!resourcepacks/*.zip
+
 # Git & GitHub
 .git/**
 .github/**
