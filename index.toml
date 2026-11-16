@@ -278,10 +278,6 @@ hash = "d51634fccfc5064d7f60f8863ba9b83c489d8e62e68f5d431f7c9fa7434a4c98"
 metafile = true
 
 [[files]]
-file = "mods/simulatedhoses-0.1.6-alpha.jar"
-hash = "e5db0bd6e4287813e8c9a3f0f69714feec2459fa80437bdc2e9e83c4d5bced1e"
-
-[[files]]
 file = "mods/simurail-0.1.1+mc1.21.1+ad7176f.jar"
 hash = "dff4cb92e7188075d8b96bd32cf5ab9de171d31182125bec247f6c2272964a8b"
 
