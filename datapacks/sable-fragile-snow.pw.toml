@@ -1,0 +1,13 @@
+name = "Sable: Fragile Snow"
+filename = "Fragile_Snow.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lOgr58jD/versions/pt0UbaIL/Fragile_Snow.zip"
+hash-format = "sha512"
+hash = "378e336a7cf8d6103655460ec43f297bf90070833fa3db1cddc3affc5507c48e48331ed665621aaf840b05b02121622f4437406d94d0ca573e4a781b543f4ef8"
+
+[update]
+[update.modrinth]
+mod-id = "lOgr58jD"
+version = "pt0UbaIL"

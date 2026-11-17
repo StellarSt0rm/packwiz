@@ -70,6 +70,11 @@ file = "datapacks/loco-cee-groundrod.zip"
 hash = "d19e237a2ebdc84768f838ca5ac6bcadc75fc37ca6c67ebc6a4772d4e8d8d179"
 
 [[files]]
+file = "datapacks/sable-fragile-snow.pw.toml"
+hash = "1bab80358ca749f1a6a2c70a5f9e44331ea40dc6a5b44699c33e78ebda0686f3"
+metafile = true
+
+[[files]]
 file = "mods/aeronautics_levitite_n_pressure-1.0.0.jar"
 hash = "a65e4405a5aacf101c4dd6bc132bc728aab99eedaf92fce938b76b1d059df427"
 
