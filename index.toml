@@ -9,6 +9,10 @@ file = "config/electroenergetics-server.toml"
 hash = "30f314362bd64b4748aa1aa7c48417c36fbba89e6be47b0ba471f444f32f49a3"
 
 [[files]]
+file = "config/kaleidoscope_tavern-common.toml"
+hash = "92f67788e138bfaf399d103dd6f1c88ecbec667d6988589a6cef331b08bec2e0"
+
+[[files]]
 file = "config/livingwind-common.toml"
 hash = "0409bf84cc412c4d7e3b916e07541c8d49e92e79366029bf6e686797687fe47d"
 
