@@ -38,7 +38,7 @@ hash = "2baee6f7a5607e323604607dd77f61d410596d38b7556be326a1a8da19513ec0"
 
 [[files]]
 file = "config/sable_player_ragdoll-server.toml"
-hash = "e85b01118983a21f2be6ef9b03f960202367168d401bfca269edd3c119a7f5d9"
+hash = "3afc5cd82be3ea9d1a7410ce6c1fffd29a79b4e689ec011a52c004a2dcc44409"
 
 [[files]]
 file = "config/simple_datapacks.json"
