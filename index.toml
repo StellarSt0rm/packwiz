@@ -25,6 +25,14 @@ file = "config/loconautics-server.toml"
 hash = "2339607dc34002fb48e378b078133182cfd511029f639542089dc9678c8694e6"
 
 [[files]]
+file = "config/modular_backpacks-client.toml"
+hash = "e54b59bf5a48ccc2667bb61e255fd14507c302f6172ad5db4975e8017c022dcf"
+
+[[files]]
+file = "config/modular_backpacks-server.toml"
+hash = "7aa17732fc839edd9bbb72fc05548d4540bcc831fbec3047175cf5395f8b2976"
+
+[[files]]
 file = "config/nepheriagloud-common.toml"
 hash = "799d54a96d0e80017d8c9b09ecf09052f7c9eb22815f593466853dbae95550c6"
 
@@ -266,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/loconautics-0.1.3BETA.jar"
 hash = "2cd0b33189b2ebdb3551b59aa8fb5cfef6b4b89d238b99b0185cf45bec05e5de"
+
+[[files]]
+file = "mods/modular-backpacks.pw.toml"
+hash = "655982d211ae12ccd1253b48a97e8d2c69dc2d7401afcc62ea4340ff5c54612f"
+metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
