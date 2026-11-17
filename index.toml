@@ -17,6 +17,10 @@ file = "config/loconautics-experimental.toml"
 hash = "31eecacd30c401e103e4c930dface08a720cc8dd67a2bf0ca0441dd4f0b2023e"
 
 [[files]]
+file = "config/loconautics-server.toml"
+hash = "2339607dc34002fb48e378b078133182cfd511029f639542089dc9678c8694e6"
+
+[[files]]
 file = "config/nepheriagloud-common.toml"
 hash = "799d54a96d0e80017d8c9b09ecf09052f7c9eb22815f593466853dbae95550c6"
 
@@ -26,7 +30,7 @@ hash = "a8331f7cb70ecd083f27dc53ed42cbb88027031e361820684aee492963312558"
 
 [[files]]
 file = "config/treephysics-common.toml"
-hash = "bd182f302cdfff714f96827b21c667f418975301bdaf97dbc4108fc8b66bec31"
+hash = "1b108793c56db1286a3015bd267ca900f38193f48d4ac94d37c79cf50603adef"
 
 [[files]]
 file = "datapacks/flatter-lowlands.pw.toml"
@@ -242,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/loconautics-0.1.3BETA.jar"
 hash = "2cd0b33189b2ebdb3551b59aa8fb5cfef6b4b89d238b99b0185cf45bec05e5de"
+
+[[files]]
+file = "mods/minecollapse.pw.toml"
+hash = "8d1fce64b978405c64c4c0006c7b63dd32a984deb10975909b671649c70ddc57"
+metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"

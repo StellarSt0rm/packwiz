@@ -1,0 +1,13 @@
+name = "MineCollapse"
+filename = "minecollapse-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EPKhWzGG/versions/ylyFzD2f/minecollapse-2.0.0.jar"
+hash-format = "sha512"
+hash = "c87392dd67eb56590515109d64a1320d85a0f8cf9382b63603aac876112456f9da61285af1d6d2b2641af1a645fb41a0e17ff49827b60e01b8632862e737af25"
+
+[update]
+[update.modrinth]
+mod-id = "EPKhWzGG"
+version = "ylyFzD2f"
