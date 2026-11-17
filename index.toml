@@ -248,11 +248,6 @@ file = "mods/loconautics-0.1.3BETA.jar"
 hash = "2cd0b33189b2ebdb3551b59aa8fb5cfef6b4b89d238b99b0185cf45bec05e5de"
 
 [[files]]
-file = "mods/minecollapse.pw.toml"
-hash = "8d1fce64b978405c64c4c0006c7b63dd32a984deb10975909b671649c70ddc57"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
