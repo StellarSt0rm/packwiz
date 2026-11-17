@@ -42,7 +42,7 @@ hash = "ac25f577e983c2947136209bac82b1e91baa04decc97028e4d8f69eab65ea4fd"
 
 [[files]]
 file = "config/ragdoll_reactions-server.toml"
-hash = "1dc6df548628bcd6697fbde373b20627916e0da62fb1331648cdd4bc59a15010"
+hash = "17c20a833f364e55ca9adf808ad90ceb458134b2b93d7ebe8d006773872ae06c"
 
 [[files]]
 file = "config/sable_player_ragdoll-client.toml"
