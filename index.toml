@@ -72,11 +72,6 @@ hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin.pw.toml"
-hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
-metafile = true
-
-[[files]]
 file = "mods/cableworks-1.4.1a.jar"
 hash = "59d09dcac0ffc47cfdf24c02fc038d29d7df52094f5f1f93fe1d90168c793447"
 
@@ -225,11 +220,6 @@ hash = "972cf82be646ff7dbf7c47d63a09e212d28d5113eff78d85ee831ec4c0c9a8c7"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -237,6 +227,16 @@ metafile = true
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscope-cookery.pw.toml"
+hash = "dfeca78ef8f2d2de9b227e684f2314b5ae869841c040e2903d1a7429299acbf7"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscopetavern.pw.toml"
+hash = "64b32907185ca1477a4f1335af4cc3068c4ea9e5ea537ce408b360d595609acc"
 metafile = true
 
 [[files]]
