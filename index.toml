@@ -79,6 +79,11 @@ hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
 
 [[files]]
+file = "mods/barehanded.pw.toml"
+hash = "a1d72d6f88c773c31e30080ced177ce5ccd89a57f3a8e34185b6dc38d902a03a"
+metafile = true
+
+[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "07f30551060d5eb77a36ad9eb26131751d790d8e43378faf4143c6f53f0da245"
 metafile = true
