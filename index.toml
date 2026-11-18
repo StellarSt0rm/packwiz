@@ -170,6 +170,16 @@ hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
 
 [[files]]
+file = "mods/create-crowns.pw.toml"
+hash = "6fcbfbccf3aaafeb821f0170d471525afa425e20506a7bbd3afde556ed5a8847"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "67a405e6307f900d168deaa954a4309c3b44a6025e4efd7b8e774b6f9d3a69cd"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/extra-copycats.pw.toml"
 hash = "972cf82be646ff7dbf7c47d63a09e212d28d5113eff78d85ee831ec4c0c9a8c7"
+metafile = true
+
+[[files]]
+file = "mods/formicapi.pw.toml"
+hash = "aab1d61d3ad44423f0df49fc1644f6b2b0e222f590a6ce6cfc00842bdaeeaa07"
 metafile = true
 
 [[files]]
