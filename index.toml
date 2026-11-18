@@ -61,6 +61,14 @@ file = "config/treephysics-common.toml"
 hash = "1b108793c56db1286a3015bd267ca900f38193f48d4ac94d37c79cf50603adef"
 
 [[files]]
+file = "config/watut-client.toml"
+hash = "2d12cc0b2649aa41bd4fdb866a27481c392879281515f30bdb08284503ede677"
+
+[[files]]
+file = "config/watut-server.toml"
+hash = "6cda5016d3a1cbb697d065dadd960e8b4dd1fc23bb8a8d4dfc6cf33b0f59c22b"
+
+[[files]]
 file = "datapacks/loco-cee-groundrod.zip"
 hash = "d19e237a2ebdc84768f838ca5ac6bcadc75fc37ca6c67ebc6a4772d4e8d8d179"
 
