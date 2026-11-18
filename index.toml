@@ -313,6 +313,11 @@ hash = "d9091100ab33ec6ecdc9f56ccab9e71d2449a0d6809a478ac3c3bb6aaa2465f4"
 metafile = true
 
 [[files]]
+file = "mods/realistic-nametag.pw.toml"
+hash = "0c6d653c82a962a15221e9abd853e027645ed2b2cddc58889792213c2fdec0f1"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
