@@ -216,6 +216,10 @@ hash = "d9da6eb607351b0667e98eca68ff3fe3e5106cded14cb9c089147528d2fc35bb"
 metafile = true
 
 [[files]]
+file = "mods/create-infinite-railways-0.2.0.jar"
+hash = "97ad125febb222ae9df31d0b0c088e7b2688e0c1e615a92ceb67f12a1ee001df"
+
+[[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
@@ -356,6 +360,11 @@ hash = "19275123fd4904230b48d1f3993d7e275966c81b57a868c1bd908f8ac656f5da"
 [[files]]
 file = "mods/ragdoll-reactions.pw.toml"
 hash = "d9091100ab33ec6ecdc9f56ccab9e71d2449a0d6809a478ac3c3bb6aaa2465f4"
+metafile = true
+
+[[files]]
+file = "mods/railways-untold.pw.toml"
+hash = "219a3f10bd28afdacd61638da2eb491b4143fc354953173433ef59dcbb9a81ef"
 metafile = true
 
 [[files]]
