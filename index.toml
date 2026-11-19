@@ -239,6 +239,11 @@ hash = "d9da6eb607351b0667e98eca68ff3fe3e5106cded14cb9c089147528d2fc35bb"
 metafile = true
 
 [[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5f76bdf0fe120e62cc3ae298e911727fa45c70dd191fd9c2b213029c7601576c"
+metafile = true
+
+[[files]]
 file = "mods/create-infinite-railways-0.2.0.jar"
 hash = "97ad125febb222ae9df31d0b0c088e7b2688e0c1e615a92ceb67f12a1ee001df"
 
