@@ -9,6 +9,10 @@ file = "config/electroenergetics-server.toml"
 hash = "30f314362bd64b4748aa1aa7c48417c36fbba89e6be47b0ba471f444f32f49a3"
 
 [[files]]
+file = "config/infiniterailways-common.toml"
+hash = "7f17924d669c6fd1eb6f1684eaa1d3185551c9b9a6364d7c33ac22952288febe"
+
+[[files]]
 file = "config/kaleidoscope_tavern-common.toml"
 hash = "92f67788e138bfaf399d103dd6f1c88ecbec667d6988589a6cef331b08bec2e0"
 
@@ -45,6 +49,10 @@ file = "config/ragdoll_reactions-server.toml"
 hash = "17c20a833f364e55ca9adf808ad90ceb458134b2b93d7ebe8d006773872ae06c"
 
 [[files]]
+file = "config/railways-untold/config.toml"
+hash = "bf107e732969fb42d5751aa3118cf1e5a0f3e4939a9d65d401c3548f564f5740"
+
+[[files]]
 file = "config/sable_player_ragdoll-client.toml"
 hash = "2baee6f7a5607e323604607dd77f61d410596d38b7556be326a1a8da19513ec0"
 
@@ -55,6 +63,10 @@ hash = "3afc5cd82be3ea9d1a7410ce6c1fffd29a79b4e689ec011a52c004a2dcc44409"
 [[files]]
 file = "config/simple_datapacks.json"
 hash = "a8331f7cb70ecd083f27dc53ed42cbb88027031e361820684aee492963312558"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "f8159cd49fec4f6faefa98cff420db36861d71bba7aaa0a55c898b860da75f09"
 
 [[files]]
 file = "config/treephysics-common.toml"
