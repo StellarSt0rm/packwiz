@@ -5,6 +5,14 @@ file = "config/create_connected-common.toml"
 hash = "e343b6c7c8fb49464961bda6ee480f00f33e7d117f17d59850beb97ed7d97b21"
 
 [[files]]
+file = "config/create_dragons_plus-common.toml"
+hash = "0ebaf1ea877534a16628b4541cb54bcf37720026cb2d5817e85b3921b89d82d6"
+
+[[files]]
+file = "config/create_dragons_plus-server.toml"
+hash = "795092d792196127eb8c77ec66839b688d7cca38629825984c17afd9e02baf68"
+
+[[files]]
 file = "config/electroenergetics-server.toml"
 hash = "30f314362bd64b4748aa1aa7c48417c36fbba89e6be47b0ba471f444f32f49a3"
 
@@ -218,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "456f66abd180b3f5765473cda5e8acb1a6ea8b15b7ee34442be9a7af414cfc63"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "dcbb37e828a2f915e64a2ef839a742761a553a2e3b923b000ffba95db7503ac3"
 metafile = true
 
 [[files]]
