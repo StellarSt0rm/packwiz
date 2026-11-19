@@ -1,0 +1,13 @@
+name = "Create: Oxidation"
+filename = "createoxidized-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bfe8d72417ac2269f328c19e000993b8768069c7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9682933
+project-id = 1810413

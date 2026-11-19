@@ -225,6 +225,11 @@ hash = "198dc94a41237e61ad862bb803a6b5892781209a0f9890881f3f98cd6fce2792"
 metafile = true
 
 [[files]]
+file = "mods/create-oxidation.pw.toml"
+hash = "ac4570d75a43f37a56180c0ba4108c9a789e8b1a3187cf517cf4fc42ca4f4dac"
+metafile = true
+
+[[files]]
 file = "mods/create-rolling-tones.pw.toml"
 hash = "ddef0dcf8688392f2466df8c2def631e31728ad178009431264958195c91aa14"
 metafile = true
