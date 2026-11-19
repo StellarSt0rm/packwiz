@@ -78,7 +78,7 @@ hash = "2d12cc0b2649aa41bd4fdb866a27481c392879281515f30bdb08284503ede677"
 
 [[files]]
 file = "config/watut-server.toml"
-hash = "6cda5016d3a1cbb697d065dadd960e8b4dd1fc23bb8a8d4dfc6cf33b0f59c22b"
+hash = "6c79b91a9ca3cd622727505c1e3110a3100ea850732a3bdbacb885f3137affbf"
 
 [[files]]
 file = "datapacks/loco-cee-groundrod.zip"
