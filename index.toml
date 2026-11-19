@@ -123,6 +123,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "9d9802c9b8af95c7e98356371cad12a2d87b4609c7bafe36c63352e7d448b58c"
+metafile = true
+
+[[files]]
 file = "mods/computercraft_cee_addon-1.0.0+86f9ab3.jar"
 hash = "3a801a8686c197fc2671911e374c2de0c54b2cb302d8cabb24066682baaea56e"
 
@@ -274,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
+metafile = true
+
+[[files]]
+file = "mods/hand-over-your-items.pw.toml"
+hash = "be05bc77ae1c8f4e9e01ef7cb518a79c2c4776c1cdc421e6ed9b873645e6df35"
 metafile = true
 
 [[files]]
