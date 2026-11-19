@@ -9,6 +9,10 @@ file = "config/electroenergetics-server.toml"
 hash = "30f314362bd64b4748aa1aa7c48417c36fbba89e6be47b0ba471f444f32f49a3"
 
 [[files]]
+file = "config/handoveryouritems.json"
+hash = "472c56eb8d650e32733096460e5578947219678fedbb622ee4a58aabd54b9409"
+
+[[files]]
 file = "config/infiniterailways-common.toml"
 hash = "7f17924d669c6fd1eb6f1684eaa1d3185551c9b9a6364d7c33ac22952288febe"
 
