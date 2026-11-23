@@ -38,7 +38,7 @@ hash = "31eecacd30c401e103e4c930dface08a720cc8dd67a2bf0ca0441dd4f0b2023e"
 
 [[files]]
 file = "config/loconautics-server.toml"
-hash = "2339607dc34002fb48e378b078133182cfd511029f639542089dc9678c8694e6"
+hash = "caf8c0c59940a55c7f8b4ca97b01de57c9160bc3ba67ca25a47dfe319998ed81"
 
 [[files]]
 file = "config/modular_backpacks-client.toml"
