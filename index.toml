@@ -58,7 +58,7 @@ hash = "ac25f577e983c2947136209bac82b1e91baa04decc97028e4d8f69eab65ea4fd"
 
 [[files]]
 file = "config/ragdoll_reactions-server.toml"
-hash = "17c20a833f364e55ca9adf808ad90ceb458134b2b93d7ebe8d006773872ae06c"
+hash = "30e9ef0808f95bc642219fc92f0b8e2ac5bb4bcefc8673f362514d846f8003a6"
 
 [[files]]
 file = "config/railways-untold/config.toml"
