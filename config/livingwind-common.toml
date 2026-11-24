@@ -179,7 +179,7 @@
 	# Range: 0.0 ~ 5.0
 	thunderMultiplier = 1.0
 	#Push survival/adventure players, with stronger effects while airborne. Creative/spectator and mounted players are excluded.
-	players = false
+	players = true
 	#Wind force on grounded players, relative to the original 0.12 grounded factor. 2.5 is 2.5x stronger than before.
 	# Default: 2.5
 	# Range: 0.0 ~ 5.0

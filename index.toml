@@ -30,7 +30,7 @@ hash = "92f67788e138bfaf399d103dd6f1c88ecbec667d6988589a6cef331b08bec2e0"
 
 [[files]]
 file = "config/livingwind-common.toml"
-hash = "2b97f50c6f1e4983033963943a14a12090490b70f42eb3c031af7d2dfc162f77"
+hash = "0409bf84cc412c4d7e3b916e07541c8d49e92e79366029bf6e686797687fe47d"
 
 [[files]]
 file = "config/loconautics-experimental.toml"
