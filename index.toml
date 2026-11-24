@@ -248,8 +248,8 @@ file = "mods/create-infinite-railways-0.2.0.jar"
 hash = "97ad125febb222ae9df31d0b0c088e7b2688e0c1e615a92ceb67f12a1ee001df"
 
 [[files]]
-file = "mods/create-liquid-fuel.pw.toml"
-hash = "810e114e3f827cb7f78a0c2cdb9087d50bb1393ebb20682daf554747e141322e"
+file = "mods/create-liquid-fuel-reburned.pw.toml"
+hash = "b68fdb39dd83c6369775b3ac0cb99f007aa3a84af4c11523d6ca84e25726e528"
 metafile = true
 
 [[files]]

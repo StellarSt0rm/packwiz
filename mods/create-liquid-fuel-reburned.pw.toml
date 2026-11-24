@@ -1,0 +1,13 @@
+name = "Create: Liquid Fuel Reburned"
+filename = "createliquidfuel-1.21.1-2.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "782242888b59b8b0626aff2f8f85ce1ea1296d25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8874890
+project-id = 1683711
