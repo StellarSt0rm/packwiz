@@ -179,11 +179,6 @@ hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
 metafile = true
 
 [[files]]
-file = "mods/create-aeronautics-nepheria-gloud.pw.toml"
-hash = "e6b88d893623f54bbcd84c4e4196e1045d0966cc852edc1257092654e2758941"
-metafile = true
-
-[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
