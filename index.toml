@@ -102,10 +102,6 @@ hash = "1bab80358ca749f1a6a2c70a5f9e44331ea40dc6a5b44699c33e78ebda0686f3"
 metafile = true
 
 [[files]]
-file = "mods/aeronautics_levitite_n_pressure-1.0.0.jar"
-hash = "a65e4405a5aacf101c4dd6bc132bc728aab99eedaf92fce938b76b1d059df427"
-
-[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
 metafile = true
@@ -435,10 +431,6 @@ metafile = true
 file = "mods/simple-datapacks.pw.toml"
 hash = "019d31690356cd97f7b89cdefd93733b3b88c6ed6da3af8996bb8be7065b5c44"
 metafile = true
-
-[[files]]
-file = "mods/simurail-0.1.1+mc1.21.1+ad7176f.jar"
-hash = "dff4cb92e7188075d8b96bd32cf5ab9de171d31182125bec247f6c2272964a8b"
 
 [[files]]
 file = "mods/snassets-library-general.pw.toml"
