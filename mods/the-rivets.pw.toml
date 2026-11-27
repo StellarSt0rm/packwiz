@@ -1,0 +1,13 @@
+name = "Create: The Rivets"
+filename = "rivets-0.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Fd3ZhjHM/versions/7cxi2GIi/rivets-0.1.5.jar"
+hash-format = "sha512"
+hash = "119c370d155d78f4e3a75c649f0ce35fe915876113053d4bbcb6fe7a0ff5f9613ec0590f28daf9e54baa94342146746f09c83df357a7e5ed14bcb7dcf918c851"
+
+[update]
+[update.modrinth]
+mod-id = "Fd3ZhjHM"
+version = "7cxi2GIi"
